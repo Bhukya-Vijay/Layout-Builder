@@ -1,0 +1,16 @@
+.top-section {
+  background-color: #475569;
+  padding: 5px;
+}
+
+.layout-text {
+  color: white;
+  padding-left: 40px;
+}
+
+.layouts-container {
+  color: white;
+  list-style: none;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
